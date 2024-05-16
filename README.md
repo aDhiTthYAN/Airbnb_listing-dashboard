@@ -15,9 +15,13 @@ Review Trends: Track the total number of reviews over the years and observe the 
 The dashboard utilizes the following visuals to present the data in an intuitive and engaging manner:
 
 **Cards**: Display summary statistics for quick reference.
+
 **Bar Chart**: Visualize the total reviews by host name for host analysis.
+
 **Pie Chart**: Illustrate the breakdown of total booking prices by host name.
+
 **Stacked Bar Chart**: Show the distribution of reviews across different neighborhood groups.
+
 **Line Chart**: Track the total reviews by year and the average reviews per month trend over time.
 
 # Usage
